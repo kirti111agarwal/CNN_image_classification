@@ -35,6 +35,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ### 📂 Project Structure
+
 ├── preprocessing.ipynb # notebook for preprocessing
 ├── cnn_model.keras     # Saved .keras model  
 ├── app.py              # Streamlit deployment file  
