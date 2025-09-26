@@ -36,11 +36,11 @@ streamlit run app.py
 ```
 ### 📂 Project Structure
 
-├── preprocessing.ipynb # notebook for preprocessing
-├── cnn_model.keras     # Saved .keras model  
-├── app.py              # Streamlit deployment file  
-├── requirements.txt    # Dependencies  
-└── README.md           # Project documentation  
+├── preprocessing.ipynb  # notebook for preprocessing   
+├── cnn_model.keras      # Saved .keras model  
+├── app.py               # Streamlit deployment file  
+├── requirements.txt     # Dependencies  
+└── README.md            # Project documentation  
 
 📊 Results
 
